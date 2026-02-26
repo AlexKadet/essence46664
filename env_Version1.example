@@ -1,0 +1,16 @@
+# SMTP Email Configuration
+SMTP_HOST=smtp.gmail.com
+SMTP_PORT=587
+SMTP_USER=your-email@gmail.com
+SMTP_PASS=your-app-specific-password
+SMTP_FROM_EMAIL=your-email@gmail.com
+SMTP_FROM_NAME=Essence Aesthetic Group
+
+# Admin Email
+ADMIN_EMAIL=florissima.u@gmail.com
+
+# Site URL (for links in emails)
+NEXT_PUBLIC_SITE_URL=http://localhost:3000
+
+# Optional: Fallback email for sending
+FALLBACK_EMAIL=florissima.u@gmail.com
