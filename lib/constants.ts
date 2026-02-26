@@ -1,0 +1,1 @@
+export const EMAIL_SERVICE_URL = 'https://api.emailservice.com/send';

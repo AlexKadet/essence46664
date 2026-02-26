@@ -1,0 +1,3 @@
+export const HeroSection = () => <section>Hero Section</section>;
+export const AboutSection = () => <section>About Section</section>;
+// Add more sections...
